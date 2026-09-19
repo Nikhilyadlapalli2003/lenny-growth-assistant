@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+.next/
+backend/data/raw/*
+!backend/data/raw/.gitkeep
+.DS_Store
